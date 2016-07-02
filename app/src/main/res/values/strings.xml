@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">expressExample</string>
+    <string name="derstandard">derstandard.at</string>
+    <string name="diepresse">diepresse.com</string>
+    <string name="messages">messages</string>
+    <string name="no_internet">Please connect to the internet.</string>
+    <string name="undo">Undo</string>
+    <string name="deleted">deleted</string>
+</resources>
